@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM :
 To write a Python function to accept a string, identify a word to be replaced, and replace it with a new word provided by the user.
 
 ---
