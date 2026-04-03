@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM : 
 To write a Python program to create a tuple containing all multiples of 5 up to a given number **N**.
 
 ---
