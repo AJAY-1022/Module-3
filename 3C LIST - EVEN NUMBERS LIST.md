@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM : 
 To write a Python function that accepts a number **N** and creates a list containing all even numbers up to **N**.
 
 ---
