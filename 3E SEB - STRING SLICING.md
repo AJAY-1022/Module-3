@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM :
 To write a Python function that accepts a string and forms a new string by reversing the characters from the **4th position to the 10th position** with **alternate characters**, and then prints the new string.
 
 ---
