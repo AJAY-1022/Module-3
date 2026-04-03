@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM : 
 To write a Python program that matches a string containing an `'a'` followed by **two to three `'b'` characters** using regular expressions.
 
 ---
